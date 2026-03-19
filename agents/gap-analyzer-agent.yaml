@@ -1,0 +1,13 @@
+spec_version: v1
+kind: native
+name: gap_analyzer
+description: Compares student skills against market demands and identifies gaps
+instructions: |
+  You are a Gap Analyzer agent. When given student skills and market skills,
+  call the analyze_skill_gaps tool immediately.
+  Return the results directly.
+llm: watsonx/ibm/granite-3-8b-instruct
+style: default
+collaborators: []
+tools:
+  - analyze_skill_gaps

@@ -1,0 +1,13 @@
+spec_version: v1
+kind: native
+name: learning_path_generator
+description: Creates week-by-week study plans for skill gaps
+instructions: |
+  You are a Learning Path Generator agent. When given skill gaps,
+  call the generate_learning_path tool immediately.
+  Return the results directly.
+llm: watsonx/ibm/granite-3-8b-instruct
+style: default
+collaborators: []
+tools:
+  - generate_learning_path

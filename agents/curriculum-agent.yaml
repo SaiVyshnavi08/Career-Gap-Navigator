@@ -1,0 +1,18 @@
+spec_version: v1
+kind: native
+name: curriculum_analyzer
+description: Analyzes student coursework and extracts skills being taught
+instructions: |
+  You are a Curriculum Analyzer agent. When given a list of courses or
+  syllabus text, you extract every technical skill, tool, framework,
+  programming language, and professional skill being taught.
+
+  Output a JSON array of skills. Example:
+  ["Python", "SQL", "machine learning", "data visualization", "pandas"]
+
+  Be thorough. Include both explicit skills and implicit skills.
+llm: watsonx/ibm/granite-3-8b-instruct
+style: default
+collaborators: []
+tools:
+  - extract_skills_from_courses

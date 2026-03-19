@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Data Scientist Intern",
+    "company": "Bank of America",
+    "location": "Charlotte, NC",
+    "required_skills": ["Python", "SQL", "machine learning", "statistics", "pandas", "scikit-learn"],
+    "preferred_skills": ["TensorFlow", "deep learning", "NLP", "cloud computing"],
+    "sponsorship": true
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Deloitte",
+    "location": "Raleigh, NC",
+    "required_skills": ["SQL", "Excel", "Tableau", "Python", "data visualization"],
+    "preferred_skills": ["Power BI", "R", "statistical modeling"],
+    "sponsorship": true
+  },
+  {
+    "title": "ML Engineer Intern",
+    "company": "IBM",
+    "location": "Durham, NC",
+    "required_skills": ["Python", "machine learning", "deep learning", "PyTorch", "Docker", "Git"],
+    "preferred_skills": ["Kubernetes", "MLOps", "CI/CD", "cloud platforms"],
+    "sponsorship": true
+  },
+  {
+    "title": "Data Scientist Intern",
+    "company": "Fidelity Investments",
+    "location": "Durham, NC",
+    "required_skills": ["Python", "R", "SQL", "machine learning", "statistics", "data visualization"],
+    "preferred_skills": ["Spark", "AWS", "NLP", "time series"],
+    "sponsorship": false
+  },
+  {
+    "title": "Business Intelligence Analyst Intern",
+    "company": "Red Hat",
+    "location": "Raleigh, NC",
+    "required_skills": ["SQL", "Tableau", "Excel", "Python", "data modeling"],
+    "preferred_skills": ["Power BI", "Looker", "dbt", "ETL pipelines"],
+    "sponsorship": true
+  },
+  {
+    "title": "AI/ML Intern",
+    "company": "Cisco",
+    "location": "Remote",
+    "required_skills": ["Python", "machine learning", "NLP", "deep learning", "TensorFlow"],
+    "preferred_skills": ["LLMs", "RAG", "vector databases", "prompt engineering"],
+    "sponsorship": true
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "Wells Fargo",
+    "location": "Charlotte, NC",
+    "required_skills": ["SQL", "Python", "Excel", "Tableau", "statistics"],
+    "preferred_skills": ["SAS", "R", "data warehousing"],
+    "sponsorship": false
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "MetLife",
+    "location": "Cary, NC",
+    "required_skills": ["Python", "SQL", "machine learning", "pandas", "statistics", "R"],
+    "preferred_skills": ["Spark", "cloud platforms", "A/B testing"],
+    "sponsorship": true
+  },
+  {
+    "title": "Software Engineer - ML Intern",
+    "company": "SAS Institute",
+    "location": "Cary, NC",
+    "required_skills": ["Python", "Java", "machine learning", "software engineering", "Git", "REST APIs"],
+    "preferred_skills": ["Docker", "microservices", "cloud platforms", "CI/CD"],
+    "sponsorship": true
+  },
+  {
+    "title": "Data Engineer Intern",
+    "company": "Truist",
+    "location": "Charlotte, NC",
+    "required_skills": ["Python", "SQL", "ETL pipelines", "Spark", "cloud platforms"],
+    "preferred_skills": ["Airflow", "Kafka", "data warehousing", "Docker"],
+    "sponsorship": false
+  }
+]
