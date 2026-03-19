@@ -36,7 +36,9 @@ Live Job Data : TheirStack APIAgent
 
 🎥 Click below to watch the full demo:
 
-[![Demo Video](https://youtu.be/sjLb6hdhWws?si=JWYyoiDhPqOLqpUd)
+## 🎥 Demo Video
+
+[![Watch Demo](https://youtu.be/sjLb6hdhWws?si=JWYyoiDhPqOLqpUd)
 
 
 
