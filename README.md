@@ -23,6 +23,17 @@ A Coordinator runs all 4 agents in sequence and compiles the final career report
 
 **Tech Stack**
 
-ComponentTechnologyFrontendReact + ViteBackendPython FlaskAI/LLMGroq (Llama 3.3 70B Versatile)Live Job DataTheirStack APIAgent FrameworkIBM watsonx Orchestrate ADKLLM (watsonx)IBM GraniteLearning ResourcesIBM SkillsBuild + 15 free platformsResume ParsingPDF.js (client-side)
+ComponentTechnology
+Frontend : React + Vite
+Backend: Python FlaskAI/LLMGroq (Llama 3.3 70B Versatile)
+Live Job Data : TheirStack APIAgent 
+
+## 🚀 Project Demo
+
+🎥 Click below to watch the full demo:
+
+[![Demo Video](https://youtu.be/sjLb6hdhWws?si=JWYyoiDhPqOLqpUd)
+
+
 
 
